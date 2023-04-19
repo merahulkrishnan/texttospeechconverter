@@ -25,3 +25,7 @@
   <li>Enter the desired text in the input box and click the "Enter" button.</li>
   <li>The program will convert the text to speech and play the audio output.</li>
 </ol>
+
+<h2>Contributing</h2>
+
+<p>If you would like to contribute to this project, feel free to create a pull request.</p>
